@@ -9,7 +9,7 @@ namespace Projeto_TesteUm_Calculadoras
             Bens bens = new Bens();
             Ciler ciler = new Ciler();
             Ralph ralph = new Ralph();
-            System.Console.WriteLine("Escolha seu jogador: ");
+            System.Console.WriteLine("Escolha seu player: ");
             System.Console.WriteLine();
 
             System.Console.WriteLine(bens.Calcular("Bens","Rousherr", "mago","O"));
@@ -30,12 +30,22 @@ namespace Projeto_TesteUm_Calculadoras
 
             System.Console.WriteLine();
 
-            System.Console.WriteLine(bens.Calcular("Ciler","Vesth", "engenheira","A"));
+            System.Console.WriteLine(bens.Calcular("Ralph","The Boy", "mutante","O"));
             System.Console.WriteLine();
             System.Console.WriteLine(bens.CalcularVida(300));
             System.Console.WriteLine(bens.Calcular(50));
             System.Console.WriteLine(bens.CalcularDefesa(70));
             ralph.Voar();
+
+            System.Console.WriteLine();
+            Escolha escolha = new Escolha();
+            System.Console.WriteLine("------------------------------------ A Escolha ------------------------------------");
+            System.Console.WriteLine("Digite o número do personagem, ou seu nome ou sua especificação para selecioná-lo: ");
+            
+            escolha.decisao=Console.ReadLine();
+            escolha.Selecionar();
+            
+            
             
             
             

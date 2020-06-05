@@ -13,7 +13,7 @@ namespace Projeto_TesteUm_Calculadoras
             System.Console.WriteLine("O personagem está olhando normalmente");
         }
         public string Calcular(string nome, string sobrenome, string especial, string genero){
-            return $"-{genero} {especial} {nome} {sobrenome} com os caracterísitcas:";
+            return $"-{genero} {especial} {nome} {sobrenome} com as características:";
         }
         public string Calcular(int ataque){
             return $"Ataque: {ataque}Pkd ";
@@ -21,6 +21,7 @@ namespace Projeto_TesteUm_Calculadoras
         public string CalcularDefesa(int defesa){
             return $"Defesa: {defesa}Pkd";
         }
+        
         public string CalcularVida(int vida){
             return $"Vida:  {vida}Pkd";
         }
