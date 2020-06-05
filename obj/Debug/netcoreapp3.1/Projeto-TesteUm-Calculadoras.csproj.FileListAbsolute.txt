@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.exe
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.deps.json
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.runtimeconfig.json
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.dll
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\bin\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.pdb
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.AssemblyInfo.cs
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.dll
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.pdb
+C:\Users\amand\Desktop\Testes programas\Projeto-TesteUm-Calculadoras\obj\Debug\netcoreapp3.1\Projeto-TesteUm-Calculadoras.genruntimeconfig.cache
